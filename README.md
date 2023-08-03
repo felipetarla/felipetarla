@@ -11,7 +11,7 @@
   <img align="center" alt="Felipe-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Felipe-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img align="center" alt="Felipe-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1021888993538887693/1021960875957026836/WhatsApp_Image_2022-09-20_at_22.24.jpg?width=676&height=676">
+  <img align="right" alt="Felipe-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/732626189830586479/1136755654523093062/1.jpg?width=676&height=676">
 </div>
   
   ##
