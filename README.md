@@ -1,4 +1,4 @@
-## Oi! Eu sou o Felipe Tarlá, desenvolvedor Front End e UX/UI Designer
+## Hey! I'm Felipe Tarlá, Front End developer and UX/UI Designer
 <div align="center">
   <a href="https://github.com/felipetarla">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=felipetarla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
