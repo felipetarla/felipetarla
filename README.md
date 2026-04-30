@@ -1,97 +1,118 @@
-```
- ██████╗ ███████╗██╗     ██╗██████╗ ███████╗  ████████╗ █████╗ ██████╗ ██╗      █████╗ 
- ██╔════╝ ██╔════╝██║     ██║██╔══██╗██╔════╝  ╚══██╔══╝██╔══██╗██╔══██╗██║     ██╔══██╗
- █████╗   █████╗  ██║     ██║██████╔╝█████╗       ██║   ███████║██████╔╝██║     ███████║
- ██╔══╝   ██╔════╝██║     ██║██╔═══╝ ██╔══╝       ██║   ██╔══██║██╔══██╗██║     ██╔══██║
- ██║      ███████╗███████╗██║██║     ███████╗      ██║   ██║  ██║██║  ██║███████╗██║  ██║
- ╚═╝      ╚══════╝╚══════╝╚═╝╚═╝     ╚══════╝      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+<a href="https://github.com/felipetarla">
+  <img width="100%" src="https://svg-banners.vercel.app/api?type=luminance&text1=FELIPE%20TARLÁ&width=800&height=400" />
+</a>
 
 <div align="center">
-  
-  `> front-end developer _ ux/ui designer _ building interfaces that feel right`
 
-  <br>
-
-  [![Linkedin](https://img.shields.io/badge/-felipe--tarla-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-tarla)
-  [![Gmail](https://img.shields.io/badge/-felipetarla04-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:felipetarla04@gmail.com)
-  [![Instagram](https://img.shields.io/badge/-felipetarla-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/felipetarla)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=600&lines=%3E+Front-End+Developer;%3E+UX%2FUI+Designer;%3E+Building+interfaces+that+feel+alive;%3E+Turning+pixels+into+experiences)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
 
-### `~/about`
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
-```ts
-const felipe = {
-  location: "Brasil 🇧🇷",
-  focus: ["Front-End Development", "UX/UI Design"],
-  currentlyBuilding: "interfaces that users actually enjoy",
-  learning: ["Next.js App Router", "Design Systems", "Motion Design"],
-  askMeAbout: ["React", "TypeScript", "Figma", "Component Architecture"],
-};
-```
+<img src="https://github-readme-stats.vercel.app/api?username=felipetarla&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117&ring_color=A960FF&include_all_commits=true" alt="Felipe's GitHub Stats" />
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipetarla&hide_border=true&background=0d1117&stroke=A960FF&ring=A960FF&fire=FF6E96&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=A960FF&sideLabels=A960FF&dates=6e7681" alt="Felipe's Streak" />
 
----
+</td>
+<td width="50%" align="center">
 
-### `~/stack`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetarla&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&langs_count=7" alt="Most Used Languages" />
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=felipetarla&theme=discord&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
 
-```
- ┌─────────────────────────────────────────────────────────────────┐
- │                                                                 │
- │   LANGUAGES      JavaScript · TypeScript · HTML · CSS           │
- │                                                                 │
- │   FRAMEWORKS     React · Next.js · Tailwind CSS · Node.js       │
- │                                                                 │
- │   DESIGN         Figma · Design Systems · Prototyping           │
- │                                                                 │
- │   TOOLS          Git · VS Code · Vercel · Vite                  │
- │                                                                 │
- └─────────────────────────────────────────────────────────────────┘
-```
+</td>
+</tr>
+</table>
 
----
-
-### `~/stats`
+<br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=felipetarla&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=felipetarla&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da&include_all_commits=true&count_private=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=felipetarla&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetarla&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetarla&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f&langs_count=6" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetarla&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-  </picture>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> &nbsp; Tech Arsenal
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css,figma,git,vscode,vite,vercel&perline=7&theme=dark" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipetarla&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=felipetarla&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=0969da&dates=57606a" />
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=felipetarla&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" />
-  </picture>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> &nbsp; About
+
 </div>
 
----
+```typescript
+class FelipeTarla {
+  readonly name = "Felipe Tarlá" as const;
+  readonly role = "Front-End Developer & UX/UI Designer";
+  readonly location = "Brasil 🇧🇷";
+
+  readonly skills = {
+    languages:  ["TypeScript", "JavaScript", "HTML", "CSS"],
+    frameworks: ["React", "Next.js", "Node.js", "Tailwind CSS"],
+    design:     ["Figma", "Design Systems", "Prototyping", "Motion"],
+    tools:      ["Git", "VS Code", "Vite", "Vercel"],
+  };
+
+  readonly currentFocus = [
+    "Crafting pixel-perfect interfaces",
+    "Design system architecture",
+    "Performance-first development",
+    "Bridging design ↔ engineering",
+  ];
+}
+```
+
+<br>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" /> &nbsp; Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=felipetarla&bg_color=0d1117&color=A960FF&line=A960FF&point=FF6E96&area=true&area_color=A960FF&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" />
+
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github.com/felipetarla/felipetarla/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
+<br>
 
 <div align="center">
-  
-  ```
-  "Design is not just what it looks like. Design is how it works." — Steve Jobs
-  ```
 
-  <img src="https://komarev.com/ghpvc/?username=felipetarla&color=58a6ff&style=flat&label=visitors" alt="visitors"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Contact" width="25" /> &nbsp; Let's Connect
+
+<br>
+
+<a href="https://www.linkedin.com/in/felipe-tarla" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:felipetarla04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://instagram.com/felipetarla" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=felipetarla&color=A960FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=100&section=footer" />
