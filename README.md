@@ -26,8 +26,7 @@
 
 I build interfaces that help users configure, monitor, and trust complex AI systems.
 
-My focus is turning complex workflows into clear, fast, and reliable interfaces, especially in products involving AI, real-time feedback, analytics, automation, and operational tooling.
-
+My focus is turning complex AI and automation workflows into clear, fast, and reliable product interfaces.
 </div>
 
 ---
@@ -41,7 +40,7 @@ const felipe = {
 
   currentlyBuilding: [
     "Frontend experiences for an enterprise Voice AI platform",
-    "Interfaces for creating, testing and monitoring AI phone agents",
+    "Interfaces for creating, testing and monitoring AI voice agents",
     "Analytics, simulations, call logs and action configuration modules",
     "Reusable React/TypeScript components used across core product workflows",
   ],
@@ -73,7 +72,7 @@ const felipe = {
 
 > Enterprise Voice AI platform for sales, support, and customer operations.
 
-I work on the frontend layer of a Voice AI platform where teams create, test, monitor, and improve AI phone agents.
+I work on the frontend layer of a Voice AI platform where teams create, test, monitor, and improve AI voice agents.
 
 **Key work**
 
@@ -157,19 +156,9 @@ Co-founded and helped build the early product experience for a telehealth platfo
 
 <br />
 
-I care about the frontend layer where complex AI systems become understandable, observable, and safe for real users to operate.
-
----
-
-## GitHub snapshot
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=felipetarla&show_icons=true&count_private=true&hide_border=true&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&bg_color=0d1117&ring_color=A960FF&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetarla&layout=compact&hide_border=true&title_color=A960FF&text_color=c9d1d9&bg_color=0d1117&langs_count=7" />
-
-</div>
+<p align="center">
+  I care about the frontend layer where complex AI systems become understandable, observable, and safe for real users to operate.
+</p>
 
 ---
 
